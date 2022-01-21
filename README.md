@@ -3,10 +3,9 @@
 ### Tecnologias React-native e Javascript
 
 + Aplicativo desenvolvido com o objetivo de estudar e entender 
-+ o comportamento de um mesmo código em dispositivos IOS e Android
-+ para melhorar e corrigir possiveis bugs e projetos futuros
++ O comportamento de um mesmo código em dispositivos IOS e Android
++ Para melhorar e corrigir possiveis bugs em projetos futuros
 
-+ Tambem aprender novas formas de trabalhar com geolocalização
++ Tambem aprender novas formas de trabalhar com Geolocalização
 
-+ ao término do app ele sera disponibilizado gratuitamente
-+ nas lojas Playstore e appleStore
++ Ao término o app sera disponibilizado gratuitamente na playStore e appleStore
