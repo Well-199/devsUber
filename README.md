@@ -9,3 +9,6 @@
 + Tambem aprender novas formas de trabalhar com Geolocalização
 
 + Ao término o app sera disponibilizado gratuitamente na playStore e appleStore
+
+### Etapa atual do projeto
++ Configurando o Redux
